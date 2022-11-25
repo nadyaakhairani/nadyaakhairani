@@ -3,7 +3,8 @@
 - ⚡️ Data science | Telkom University
 - 🌱 programming language focus : Python and Go
 
-- Email : nadyakhairani65@gmail.com
-- instagram : @nadyaakhairani
+- 📩 Email : nadyakhairani65@gmail.com | nadyakhairani@
+- 📷 instagram : @nadyaakhairani 
 
 - 🌱 I’m currently learning Data Science at Telkom University
+ 
