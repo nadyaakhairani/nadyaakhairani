@@ -1,7 +1,7 @@
 ### Nadya Khairani
-- 😄 Pronouns: she/her
-- ⚡️ Data science | Telkom University
-- 🌱 programming language focus : Python and Go
+- 👩🏻‍💻 Pronouns: she/her
+- 📚 Data science | Telkom University
+- 📊 programming language focus : Python and Go
 
 - 📩 Email : nadyakhairani65@gmail.com | nadyakhairani@student.telkomuniversity.ac.id
 - 📷 instagram : @nadyaakhairani 
